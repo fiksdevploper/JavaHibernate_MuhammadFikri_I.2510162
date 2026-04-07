@@ -34,7 +34,7 @@ Proyek ini merupakan implementasi **CRUD (Create, Read, Update, Delete)** menggu
 
 ## 🖼️ Screenshot Aplikasi
 
-![Screenshot Aplikasi](Image/Gambar.png)
+![Screenshot Aplikasi](image/Gambar.png)
 
 ---
 
