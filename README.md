@@ -30,6 +30,14 @@ Proyek ini merupakan implementasi **CRUD (Create, Read, Update, Delete)** menggu
 
 ---
 
+---
+
+## 🖼️ Screenshot Aplikasi
+
+![Screenshot Aplikasi](Image/Gambar1.png)
+
+---
+
 ## 🚀 Cara Menjalankan
 1. Clone repository:
    ```bash
@@ -37,3 +45,11 @@ Proyek ini merupakan implementasi **CRUD (Create, Read, Update, Delete)** menggu
 2. Import project ke IDE pilihanmu.
 3. Buat database MySQL sesuai konfigurasi di file hibernate.cfg.xml.
 4. Pastikan semua dependency Hibernate sudah terhubung.
+
+<div align="center">
+  <strong>Muhammad Fikri</strong> — I.1510162<br>
+  <sub>
+    🔗 <a href="https://github.com/fiksdevploper">GitHub</a> ·
+    💼 <a href="https://www.linkedin.com/in/muhammad-fikri-b3766a2b1/?skipRedirect=true">LinkedIn</a>
+  </sub>
+</div>
